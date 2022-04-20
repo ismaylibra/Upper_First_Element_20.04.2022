@@ -6,20 +6,33 @@ namespace Homework_task_20._04._2022_upperFirstElemet
     {
         static void Main(string[] args)
         {
+            //Console.WriteLine("Cumle daxil edin: ");
+            //string sentence = Console.ReadLine(); 
+            //string[] words = sentence.Split(" ");
+            //Console.WriteLine("Berpa olunmus cumle: ");
+            //foreach (var word in words)
+            //{ 
+            //    Console.Write(word.Substring(0,1).ToUpper() + word.Substring(1).ToLower());
+            //}
+
+
+
+
+            toUpperFirstLetter("");
+     
+        }
+        public static void toUpperFirstLetter (string sentence)
+        {
             Console.WriteLine("Cumle daxil edin: ");
-            string sentence = Console.ReadLine(); 
+             sentence = Console.ReadLine();
             string[] words = sentence.Split(" ");
             Console.WriteLine("Berpa olunmus cumle: ");
             foreach (var word in words)
-            { 
+            {
                 Console.Write(word.Substring(0, 1).ToUpper() + word.Substring(1).ToLower());
             }
-            
-           
-          
+        }
 
             
-     
-        }
     }
 }
