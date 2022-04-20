@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\obj\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\obj\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\obj\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\obj\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\obj\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\bin\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.exe
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\bin\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.deps.json
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\bin\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\bin\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\bin\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.dll
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\bin\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.pdb
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\obj\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.dll
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\obj\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.pdb
+C:\Users\ASUS\Desktop\C# tasks\Homework task 20.04.2022 upperFirstElemet\Homework task 20.04.2022 upperFirstElemet\obj\Debug\netcoreapp3.1\Homework task 20.04.2022 upperFirstElemet.genruntimeconfig.cache
